@@ -4,8 +4,8 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "khuyutharir.com" }],
-      "destination": "https://www.khuyutharir.com/$1",
+      "has": [{ "type": "host", "value": "kheyot-hareer.online" }],
+      "destination": "https://www.kheyot-hareer.online/$1",
       "permanent": true
     }
   ],
